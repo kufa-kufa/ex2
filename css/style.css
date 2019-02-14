@@ -1,0 +1,11 @@
+.product img {
+    
+    float:left;
+    width:150px;
+}
+.product input[type='text'] {
+    border:none;
+}
+.product input[type='text']:focus {
+    outline: none;
+}
